@@ -4,7 +4,7 @@
 
 People have come to the Bitclout platform in droves because they're sick of 2010s era social media.
 
-&#128078; Getting peppered with targeted ads for things in your recent search history.
+👎 Getting peppered with targeted ads for things in your recent search history.
 
 &#128078; Pouring energy into building a platform that you can't monetize.
 
