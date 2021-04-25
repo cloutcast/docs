@@ -74,6 +74,6 @@ Once authenticated, anyone can send or withdraw funds to their CloutCast Wallet.
 
     Examples such as:
 
-    > "For $20 I will quote reclout the best rap battle insult against me with my rap battle response, roast me. Entries will be reviewed at 6PM PT on cloutcast.io"
+    *  "For $20 I will quote reclout the best rap battle insult against me with my rap battle response, roast me. Entries will be reviewed at 6PM PT on cloutcast.io"
     
-   >Creative "Raffle" type games
+    * Creative "Raffle" type games
