@@ -4,7 +4,7 @@
 
 v0.1
     
-Created by the [@Clout_Cast](https://bitclout.com/user/Clout_Cast) team.
+Created by the [@Clout_Cast](https://bitclout.com/u/Clout_Cast) team.
 
 ## Why we made CloutCast.
 
