@@ -4,11 +4,11 @@
 
 People have come to the Bitclout platform in droves because they're sick of 2010s era social media.
 
-:thumbsdown: Getting peppered with targeted ads for things in your recent search history.
+&#128078; Getting peppered with targeted ads for things in your recent search history.
 
-:thumbsdown: Pouring energy into building a platform that you can't monetize.
+&#128078; Pouring energy into building a platform that you can't monetize.
 
-And the list of :thumbsdown:'s goes on.
+And the list of &#128078;'s goes on.
 
 We here at CloutCast said fuck that. We want to pull the plug on the current targeted advertising model that's eaten all of the social space today. We want ads to be dumb. We want ads to be silly. We want people to promote others genuinely and get promoted through their creativity.
 
@@ -45,7 +45,7 @@ Whether someone has send you a promotion link, or you find some promotions you'r
 
 Anyone can be a client. Being a client simply means that you are paying for a promotion of a given clout. Maybe its your new startup that you're trying to scale, or a clever post from a creator you've invested in. Doesn't matter, if its a clout, you can promote it!
 
-### :dollar: Money In & Money Out :dollar:
+### &#128181; Money In & Money Out &#128181;
 
 Once authenticated, anyone can send or withdraw funds to their CloutCast Wallet.
 
