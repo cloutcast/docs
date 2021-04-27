@@ -1,4 +1,4 @@
-# [cloutcast.io/README.md] 
+# [cloutcast.io README.md] 
 
 [[$pread your word]]
 
