@@ -1,8 +1,6 @@
 # [cloutcast.io README.md] 
 
 [[$pread your word]]
-
-v0.1
     
 Created by the [@Clout_Cast](https://bitclout.com/u/Clout_Cast) team.
 
